@@ -1,0 +1,8 @@
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\TESTE\bin\Debug\TESTE.exe.config
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\TESTE\bin\Debug\TESTE.exe
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\TESTE\bin\Debug\TESTE.pdb
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\TESTE\obj\Debug\TESTE.csproj.AssemblyReference.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\TESTE\obj\Debug\TESTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\TESTE\obj\Debug\TESTE.csproj.CoreCompileInputs.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\TESTE\obj\Debug\TESTE.exe
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\TESTE\obj\Debug\TESTE.pdb

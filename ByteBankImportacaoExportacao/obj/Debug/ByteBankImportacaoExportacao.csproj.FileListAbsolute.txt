@@ -1,0 +1,16 @@
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Marateo\OneDrive\Documentos\T.I\Curso Alura\Formação C# e Orientação a objetos\Csharp curso 9 - Entrada e saída (IO) com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Marateo\OneDrive\Documentos\T.I\Projetos GitHub\Projeto_Banco_ByteBank_CSharp\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\Marateo\OneDrive\Documentos\T.I\Projetos GitHub\Projeto_Banco_ByteBank_CSharp\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Marateo\OneDrive\Documentos\T.I\Projetos GitHub\Projeto_Banco_ByteBank_CSharp\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Marateo\OneDrive\Documentos\T.I\Projetos GitHub\Projeto_Banco_ByteBank_CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Projetos GitHub\Projeto_Banco_ByteBank_CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Projetos GitHub\Projeto_Banco_ByteBank_CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\Marateo\OneDrive\Documentos\T.I\Projetos GitHub\Projeto_Banco_ByteBank_CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Marateo\OneDrive\Documentos\T.I\Projetos GitHub\Projeto_Banco_ByteBank_CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
